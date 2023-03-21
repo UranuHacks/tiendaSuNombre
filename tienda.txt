@@ -1,7 +1,8 @@
-Sombreros
-Calzados
-Vestidos
+﻿Sombreros
+ Calzados
+Vestidos 
+
 Maquillaje
-Sombreros
+Sombreros 
 Joyería
 Carteras
